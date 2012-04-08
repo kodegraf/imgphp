@@ -1,6 +1,6 @@
-PhoneGap-Start
+imgphp
 ---
 
-A starting point for PhoneGap apps.
+A PhoneGap app that transfers an image to a server via the http multipart file upload standard.
 
-To get started: fork this repo, modify the config.xml to match your details, and get building!
+It is assumed that the receiver will be a PHP file.
