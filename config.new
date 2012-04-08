@@ -7,7 +7,7 @@
 	<name>imgphp: a PhoneGap app to upload images</name>
 
 	<description>
-		An image to PHP app
+		A template for getting started with PhoneGap development and build.phonegap.com
 	</description>
 
 	<author href="http://alunny.github.com"
